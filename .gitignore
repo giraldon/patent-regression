@@ -1,0 +1,5 @@
+## ignore .ipynb checkpoints
+.ipynb_checkpoints
+
+## ignore giant file
+patent_abstracts.csv

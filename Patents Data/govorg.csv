@@ -1,0 +1,140 @@
+organization_id,name,level_one,level_two,level_three
+11,Postal Service,Postal Service,,
+4,Denali Commission,Denali Commission,,
+32,Department of State,Department of State,,
+100,Agency for International Development,Department of State,Agency for International Development,
+3,Bureau of the Census,Bureau of the Census,,
+86,Energy Information Administration,Department of Energy,Energy Information Administration,
+80,Los Alamos National Laboratory,Department of Energy,Los Alamos National Laboratory,
+85,Lawrence Berkeley Laboratory,Department of Energy,Lawrence Berkeley Laboratory,
+83,National Energy Technology Laboratory,Department of Energy,National Energy Technology Laboratory,
+49,Atomic Energy Commission,Department of Energy,Atomic Energy Commission,
+79,Energy Research and Development Administration,Department of Energy,Energy Research and Development Administration,
+10,Department of Energy,Department of Energy,,
+84,Bonneville Power Administration,Department of Energy,Bonneville Power Administration,
+82,National Renewable Energy Laboratory,Department of Energy,National Renewable Energy Laboratory,
+76,Lawrence Livermore National Laboratory,Department of Energy,Lawrence Livermore National Laboratory,
+81,Lawrence Berkeley National Laboratory,Department of Energy,Lawrence Berkeley National Laboratory,
+75,Oak Ridge National Laboratory,Department of Energy,Oak Ridge National Laboratory,
+77,National Nuclear Security Administration,Department of Energy,National Nuclear Security Administration,
+47,Sandia National Laboratories,Department of Energy,Sandia National Laboratories,
+78,Argonne National Laboratory,Department of Energy,Argonne National Laboratory,
+57,Defense Logistics Agency,Department of Defense,Defense Logistics Agency,
+54,Defense Advanced Research Projects Agency,Department of Defense,Defense Advanced Research Projects Agency,
+60,Defense Information Systems Agency,Department of Defense,Defense Information Systems Agency,
+65,Defense Threat Reduction Agency,Department of Defense,Defense Threat Reduction Agency,
+61,Missile Defense Agency,Department of Defense,Missile Defense Agency,
+53,Air Force,Department of Defense,Air Force,
+5,Department of Defense,Department of Defense,,
+55,Army,Department of Defense,Army,
+64,Navy,Department of Defense,Navy,
+52,Coast Guard,Department of Defense,Coast Guard,
+58,Federal Bureau of Investigation,Department of Defense,Federal Bureau of Investigation,
+56,Defense Intelligence Agency,Department of Defense,Defense Intelligence Agency,
+51,National Security Agency,Department of Defense,National Security Agency,
+59,Marine Corps,Department of Defense,Marine Corps,
+62,National Reconnaissance Office,Department of Defense,National Reconnaissance Office,
+63,National Geospatial-Intelligence Agency,Department of Defense,National Geospatial-Intelligence Agency,
+50,Combating Terrorism Technical Support Office,Department of Defense,Combating Terrorism Technical Support Office,
+7,Department of Justice,Department of Justice,,
+66,National Institute of Justice,Department of Justice,National Institute of Justice,
+140,National Park Service,National Park Service,,
+44,National Institute of Standards and Technology,Department of Commerce,National Institute of Standards and Technology,
+43,Library of Congress,Department of Commerce,Library of Congress,
+37,Maritime Administration,Department of Commerce,Maritime Administration,
+41,Bureau of Industry and Security,Department of Commerce,Bureau of Industry and Security,
+2,Department of Commerce,Department of Commerce,,
+40,National Oceanic and Atmospheric Administration,Department of Commerce,National Oceanic and Atmospheric Administration,
+39,National Institute of Science and Technology,Department of Commerce,National Institute of Science and Technology,
+45,Technology Administration,Department of Commerce,Technology Administration,
+46,International Trade Administration,Department of Commerce,International Trade Administration,
+42,Economic Development Administration,Department of Commerce,Economic Development Administration,
+38,National Telecommunications and Information Administration,Department of Commerce,National Telecommunications and Information Administration,
+22,Federal Reserve System,Federal Reserve System,,
+24,Department of Education,Department of Education,,
+18,United States Government,United States Government,,
+34,Department of Agriculture,Department of Agriculture,,
+106,Agricultural Research Service,Department of Agriculture,Agricultural Research Service,
+101,Forest Service,Department of Agriculture,Forest Service,
+104,Natural Resources Conservation Service,Department of Agriculture,Natural Resources Conservation Service,
+105,Animal and Plant Health Inspection Service,Department of Agriculture,Animal and Plant Health Inspection Service,
+102,"Cooperative State Research, Education, and Extension Service",Department of Agriculture,"Cooperative State Research, Education, and Extension Service",
+103,National Institute of Food and Agriculture,Department of Agriculture,National Institute of Food and Agriculture,
+28,National Security Council,National Security Council,,
+138,Office of Special Counsel,Office of Special Counsel,,
+29,Department of the Interior,Department of the Interior,,
+98,Bureau of Mines,Department of the Interior,Bureau of Mines,
+99,Bureau of Reclamation,Department of the Interior,Bureau of Reclamation,
+109,Internal Revenue Service,Department of the Treasury,Internal Revenue Service,
+21,Tennessee Valley Authority,Tennessee Valley Authority,,
+33,Central Intelligence Agency,Central Intelligence Agency,,
+31,National Science Foundation,National Science Foundation,,
+68,Federal Transit Administration,Department of Transportation,Federal Transit Administration,
+71,Federal Railroad Administration,Department of Transportation,Federal Railroad Administration,
+69,Research and Innovative Technology Administration,Department of Transportation,Research and Innovative Technology Administration,
+67,Federal Aviation Administration,Department of Transportation,Federal Aviation Administration,
+70,Pipeline and Hazardous Materials Safety Administration,Department of Transportation,Pipeline and Hazardous Materials Safety Administration,
+9,Department of Transportation,Department of Transportation,,
+74,National Highway Traffic Safety Administration,Department of Transportation,National Highway Traffic Safety Administration,
+73,Federal Motor Carrier Safety Administration,Department of Transportation,Federal Motor Carrier Safety Administration,
+72,Federal Highway Administration,Department of Transportation,Federal Highway Administration,
+12,Postal Regulatory Commission,Postal Regulatory Commission,,
+15,Nuclear Regulatory Commission,Nuclear Regulatory Commission,,
+14,Small Business Administration,Small Business Administration,,
+87,Small Business Innovation Research,Small Business Administration,Small Business Innovation Research,
+1,Department of Veterans Affairs,Department of Veterans Affairs,,
+8,Social Security Administration,Social Security Administration,,
+17,Department of Homeland Security,Department of Homeland Security,,
+89,Transportation Security Administration,Department of Homeland Security,Transportation Security Administration,
+88,Federal Emergency Management Agency,Department of Homeland Security,Federal Emergency Management Agency,
+26,Environmental Protection Agency,Environmental Protection Agency,,
+108,Federal Acquisition Regulation,General Services Administration,Federal Acquisition Regulation,
+36,General Services Administration,General Services Administration,,
+16,Federal Communications Commission,Federal Communications Commission,,
+30,Antitrust Modernization Commission,Antitrust Modernization Commission,,
+139,Employment Standards Administration,Employment Standards Administration,,
+20,Office of National Drug Control Policy,Office of National Drug Control Policy,,
+90,Centers for Medicare & Medicaid Services,Department of Health and Human Services,Centers for Medicare & Medicaid Services,
+96,Food and Drug Administration,Department of Health and Human Services,Food and Drug Administration,
+94,National Center for Infectious Diseases,Department of Health and Human Services,National Center for Infectious Diseases,
+19,Department of Health and Human Services,Department of Health and Human Services,,
+91,Centers for Disease Control and Prevention,Department of Health and Human Services,Centers for Disease Control and Prevention,
+92,Health Resources and Services Administration,Department of Health and Human Services,Health Resources and Services Administration,
+95,National Institutes of Health,Department of Health and Human Services,National Institutes of Health,
+93,Publich Health Service,Department of Health and Human Services,Publich Health Service,
+25,Department of Health�and Human Services,Department of Health�and Human Services,,
+6,Department of Housing and Urban Development,Department of Housing and Urban Development,,
+13,"Department of Health, Education, and Welfare","Department of Health, Education, and Welfare",,
+107,National Space Biomedical Research Institute,National Aeronautics and Space Administration,National Space Biomedical Research Institute,
+35,National Aeronautics and Space Administration,National Aeronautics and Space Administration,,
+97,Intelligence Advanced Research Projects Activity,Office of the Director of National Intelligence,Intelligence Advanced Research Projects Activity,
+23,Office of the Director of National Intelligence,Office of the Director of National Intelligence,,
+27,Uniformed Services University of the Health Sciences,Uniformed Services University of the Health Sciences,,
+110,Office of Management and Budget,Executive Office of the President of the United States,Office of Management and Budget,
+128,Public Health Service,Department of Health and Human Services,National Institutes of Health,Public Health Service
+129,National Eye Institute,Department of Health and Human Services,National Institutes of Health,National Eye Institute
+119,National Cancer Institute,Department of Health and Human Services,National Institutes of Health,National Cancer Institute
+111,Advanced Technology Program,Department of Commerce,National Institute of Standards and Technology,Advanced Technology Program
+132,National Institute on Aging,Department of Health and Human Services,National Institutes of Health,National Institute on Aging
+121,Fogarty International Center,Department of Health and Human Services,National Institutes of Health,Fogarty International Center
+120,National Library of Medicine,Department of Health and Human Services,National Institutes of Health,National Library of Medicine
+127,National Institute on Drug Abuse,Department of Health and Human Services,National Institutes of Health,National Institute on Drug Abuse
+114,National Institute of Mental Health,Department of Health and Human Services,National Institutes of Health,National Institute of Mental Health
+115,National Center for Research Resources,Department of Health and Human Services,National Institutes of Health,National Center for Research Resources
+124,National Institute of Nursing Research,Department of Health and Human Services,National Institutes of Health,National Institute of Nursing Research
+125,National Human Genome Research Institute,Department of Health and Human Services,National Institutes of Health,National Human Genome Research Institute
+113,"National Heart, Lung, and Blood Institute",Department of Health and Human Services,National Institutes of Health,"National Heart, Lung, and Blood Institute"
+116,National Institute of General Medical Sciences,Department of Health and Human Services,National Institutes of Health,National Institute of General Medical Sciences
+134,National Institute on Alcohol Abuse and Alcoholism,Department of Health and Human Services,National Institutes of Health,National Institute on Alcohol Abuse and Alcoholism
+123,National Institute of Environmental Health Sciences,Department of Health and Human Services,National Institutes of Health,National Institute of Environmental Health Sciences
+137,National Center for Advancing Translational Sciences,Department of Health and Human Services,National Institutes of Health,National Center for Advancing Translational Sciences
+112,National Institute for Occupational Safety and Health,Department of Health and Human Services,Centers for Disease Control and Prevention,National Institute for Occupational Safety and Health
+133,National Institute of Allergy and Infectious Diseases,Department of Health and Human Services,National Institutes of Health,National Institute of Allergy and Infectious Diseases
+136,National Institute of Dental and Craniofacial Research,Department of Health and Human Services,National Institutes of Health,National Institute of Dental and Craniofacial Research
+126,National Institute of Neurological Disorders and Stroke,Department of Health and Human Services,National Institutes of Health,National Institute of Neurological Disorders and Stroke
+122,National Institute of Child Health and Human Development,Department of Health and Human Services,National Institutes of Health,National Institute of Child Health and Human Development
+135,National Institute of Biomedical Imaging and Bioengineering,Department of Health and Human Services,National Institutes of Health,National Institute of Biomedical Imaging and Bioengineering
+130,National Institute on Minority Health and Health Disparities,Department of Health and Human Services,National Institutes of Health,National Institute on Minority Health and Health Disparities
+131,National Institute of Diabetes and Digestive and Kidney Diseases,Department of Health and Human Services,National Institutes of Health,National Institute of Diabetes and Digestive and Kidney Diseases
+117,National Institute on Deafness and Other Communication Disorders,Department of Health and Human Services,National Institutes of Health,National Institute on Deafness and Other Communication Disorders
+118,National Institute of Arthritis and Musculoskeletal and Skin Diseases,Department of Health and Human Services,National Institutes of Health,National Institute of Arthritis and Musculoskeletal and Skin Diseases

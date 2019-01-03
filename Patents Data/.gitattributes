@@ -1,0 +1,2 @@
+patents.csv filter=lfs diff=lfs merge=lfs -text
+patent_assignee.csv filter=lfs diff=lfs merge=lfs -text
