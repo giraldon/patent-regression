@@ -4,7 +4,7 @@ Topic Modelling and Regression to predict value of patents.
 ### My Motivation for the Project ###  
 <br/>
 I spent about a year after graduating with my Chemical Engineering degree working with my father on developing a patent on a new drying process. More recently, my parents have spent the last couple of years trying to launch a company based on a new technology they developed. I have experienced firsthand the difficulties in securing a patent and communicating its value, as well as secondhand the difficulties in securing funding for a new, unproven technology.  
-<br/>
+
 Companies, and in turn, investors, have become more and more short-term oriented as time has gone on. This has resulted in decreased R&D spending, and thus decreased innovation as companies place less value on long-term investments. This is due in part to the fact that it is difficult to quantify innovation, and thus put a value on it. In an increasingly numbers-focused world, where every decision needs to have quantifiable metrics to back it up, putting a dollar value on patents, and thus research, would go a long way in correlating Research to real-world value. 
 
 ![innovation discounting](https://raw.githubusercontent.com/giraldon/patent-regression/master/pics/innovationdiscountpatent.png)  
