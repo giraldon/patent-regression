@@ -11,9 +11,10 @@ Companies, and in turn, investors, have become more and more short-term oriented
 ![innovation discounting](https://raw.githubusercontent.com/giraldon/patent-regression/master/pics/innovationdiscountpatent.png)  
 
 This is a graph from [this paper](https://github.com/giraldon/patent-regression/blob/master/Patents%20Data/SSRN-id2837524.pdf), I think it drives home the point of this exercise, which is to apply a value to innovation in order to encourage long-term thinking, and allow companies to justify R&D spending.  
+
+### Project Info ###  
 <br/>
-<br/>
-  
+
 [This](https://github.com/giraldon/patent-regression/blob/master/Patents_Topics_Regression_Desktop.ipynb) is a notebook which runs through the project step-by-step as a whole.  
   
 Data was obtained from [Google's Patent Data](https://console.cloud.google.com/marketplace/details/google_patents_public_datasets/google-patents-research-data?filter=solution-type:dataset&q=google%20patents%20public%20datasets&id=4154f240-a4fb-461b-ac9d-2003ea3d107e) hosted on BigQuery
