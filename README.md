@@ -10,6 +10,42 @@ However, I eventually found that I could not correlate the patent metadata stron
   
 Despite this, the project was very useful for visualizing which companies have put out the most valuable patents, and comparing across companies. Furthermore, I was able to determine the most valuable patent topics, to a certain degree, which allowed for an easy visual comparison.  
   
-The presentation containing all of the visuals I created in tableau, as well as a general narrative is available [here](https://github.com/giraldon/patent-regression/blob/master/Patent_design%20(2).pdf)
+The presentation containing all of the visuals I created in tableau, as well as a general narrative is available [here](https://github.com/giraldon/patent-regression/blob/master/Patent_design%20(2).pdf)  
   
-Any questions feel free to contact me at nicolas.giraldowingler@gmail.com
+The video of my presentation is located [here](https://livestream.com/metis/events/8360820/videos/180566594)
+  
+Any questions feel free to contact me at nicolas.giraldowingler@gmail.com  
+
+***  
+
+## Some interesting Results ##  
+  
+![innovation discounting](https://raw.githubusercontent.com/giraldon/patent-regression/master/pics/innovationdiscountpatent.png)  
+
+This is a graph from a paper I linked above, I think it drives home the point of this exercise, which is to apply a value to innovation in order to encourage long-term thinking, and allow companies to justify R&D spending.  
+<br/>
+<br/>
+<br/>
+![most valuable companies](https://raw.githubusercontent.com/giraldon/patent-regression/master/pics/companybubblepatent.png)
+![legend](https://raw.githubusercontent.com/giraldon/patent-regression/master/pics/companyvaluepatent.png)  
+
+This graph shows the most valuable companies relative to each other by the value of their patent portfolios.  
+<br/>
+<br/>
+<br/>
+![most valuable topics](https://raw.githubusercontent.com/giraldon/patent-regression/master/pics/totalbubblepatent.png)
+![legend](https://raw.githubusercontent.com/giraldon/patent-regression/master/pics/totallegendpatent.png)  
+
+These are the most valuable patent topics, or technologies, overall.  
+The reason chemical patents came out on top instead of tech patents despite the recent explosion in number and value of these patents, is that the tech field is more fragmented in terms of topics.   
+More topics means smaller blobs, but as an aggregate they are the most valuable.  
+
+Still interesting to note is that before tech, most of the money was in chemical manufacturing, especially in coatings and adhesives.  
+<br/>
+<br/>
+<br/>
+![tech topics](https://raw.githubusercontent.com/giraldon/patent-regression/master/pics/techbubblepatent.png)
+![legend](https://raw.githubusercontent.com/giraldon/patent-regression/master/pics/techlegendpatent.png)  
+
+After removing the top chemical topics, the tech field comes out. As expected, the most valuable topics pertain to Chip manufacturing, Sensors, and Wireless Communications. 
+<br/>
