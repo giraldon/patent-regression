@@ -1,5 +1,17 @@
 # patent-regression
 Topic Modelling and Regression to predict value of patents.  
+
+### My Motivation for the Project ###  
+<br/>
+I spent about a year after graduating with my Chemical Engineering degree working with my father on developing a patent on a new drying process. More recently, my parents have spent the last couple of years trying to launch a company based on a new technology they developed. I have experienced firsthand the difficulties in securing a patent and communicating its value, as well as secondhand the difficulties in securing funding for a new, unproven technology.  
+<br/>
+Companies, and in turn, investors, have become more and more short-term oriented as time has gone on. This has resulted in decreased R&D spending, and thus decreased innovation as companies place less value on long-term investments. This is due in part to the fact that it is difficult to quantify innovation, and thus put a value on it. In an increasingly numbers-focused world, where every decision needs to have quantifiable metrics to back it up, putting a dollar value on patents, and thus research, would go a long way in correlating Research to real-world value. 
+
+![innovation discounting](https://raw.githubusercontent.com/giraldon/patent-regression/master/pics/innovationdiscountpatent.png)  
+
+This is a graph from [this paper](https://github.com/giraldon/patent-regression/blob/master/Patents%20Data/SSRN-id2837524.pdf), I think it drives home the point of this exercise, which is to apply a value to innovation in order to encourage long-term thinking, and allow companies to justify R&D spending.  
+<br/>
+<br/>
   
 [This](https://github.com/giraldon/patent-regression/blob/master/Patents_Topics_Regression_Desktop.ipynb) is a notebook which runs through the project step-by-step as a whole.  
   
@@ -8,7 +20,9 @@ Data was obtained from [Google's Patent Data](https://console.cloud.google.com/m
 Initially, my goal was to create a model which would predict the value of a given patent, by building a regression model around ground-truth values which were obtained from [this paper](https://github.com/giraldon/patent-regression/blob/master/SSRN-id2193068.pdf).  
 However, I eventually found that I could not correlate the patent metadata strongly enough with the ground-truth values to justify predicting the exact value of any given patent.  
   
-Despite this, the project was very useful for visualizing which companies have put out the most valuable patents, and comparing across companies. Furthermore, I was able to determine the most valuable patent topics, to a certain degree, which allowed for an easy visual comparison.  
+Despite this, the project was very useful for visualizing which companies have put out the most valuable patents, and comparing across companies. By correlating this with R&D spending, companies could use this data to ballpark return on investment.  Furthermore, I was able to determine the most valuable patent topics, to a certain degree, which allowed for an easy visual comparison on a technology basis.  
+
+This data would still be valuable to companies looking for their next move, or at least to put a ballpark value on a given technology or investment. While this does not solve the problem I posed in the beginning, it certainly helps. 
   
 The presentation containing all of the visuals I created in tableau, as well as a general narrative is available [here](https://github.com/giraldon/patent-regression/blob/master/Patent_design%20(2).pdf)  
   
@@ -19,13 +33,7 @@ Any questions feel free to contact me at nicolas.giraldowingler@gmail.com
 ***  
 
 ## Some interesting Results ##  
-  
-![innovation discounting](https://raw.githubusercontent.com/giraldon/patent-regression/master/pics/innovationdiscountpatent.png)  
 
-This is a graph from a paper I linked above, I think it drives home the point of this exercise, which is to apply a value to innovation in order to encourage long-term thinking, and allow companies to justify R&D spending.  
-<br/>
-<br/>
-<br/>
 ![most valuable companies](https://raw.githubusercontent.com/giraldon/patent-regression/master/pics/companybubblepatent.png)
 ![legend](https://raw.githubusercontent.com/giraldon/patent-regression/master/pics/companyvaluepatent.png)  
 
